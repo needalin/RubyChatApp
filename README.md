@@ -1,5 +1,6 @@
 
 '''ruby
+
     user_name = ARGV
     print "what is your first name?\n"
     user_name = gets.chomp
@@ -22,5 +23,4 @@
     You live in #{lives}.  I'm not sure where that is.
     And you have a #{computer} computer...  Awesomenessss;).
     """
-    
 '''
